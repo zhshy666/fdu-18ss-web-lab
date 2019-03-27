@@ -10,7 +10,7 @@ header {
     height: 10%;
     background-color: #171a21;
     display: flex;
-    text-align: center;
+    text-align: left;
 }
 
 nav {
@@ -22,7 +22,8 @@ li {
 }
 
 nav li {
-    padding: 0 1em;
+    padding: 16px 7px;
+    margin: 3px -65px 3px 80px;
 }
 
 a {
@@ -39,8 +40,7 @@ nav li a {
 }
 
 aside {
-    float:right;
-    margin: 1% 5%;
+    position: absolute;
     width: 30%;
     background-color: #171a21;
 }
@@ -50,13 +50,14 @@ aside a {
 }
 
 aside img, aside ul {
-    padding: 0;
+    padding: 0 -5% 0 0 ;
     width: 100%;
 }
 
 aside li {
     display: block;
     text-align: center;
+    margin: 10px 0 10px 0;
     padding: 0.2em 0;
 }
 
@@ -94,21 +95,31 @@ aside li {
 }
 
 section {
-    margin: 0 5%;
+    margin: 0 3%;
 }
 
 section blockquote {
-    margin: 0;
+    margin: 0 0 5px 60px;
     width: 60%;
-    font-size: small;
+    font-size:13px;
     background-color: #171a21;
-    padding: 0.7em;
+    padding: 1em;
     color: #b8b6b4;
     border-top: 1px solid rgba(85, 125, 171, 0.6)
 }
 
+section h2{
+    margin: 2% 0 2% 5%;
+}
+
+section p{
+    width: 50%;
+    margin: 0 0 0 5%;
+    line-height: 220%;
+}
+
 p small {
-    margin: 0;
+    line-height: 250%;
     padding: 0;
     color: #b8b6b4;
 }
@@ -124,9 +135,11 @@ hr {
 
 .value ul {
     display: inline-block;
+    margin: 0 30px;
 }
 
 .value {
+    margin: 20px 0 40px 58px;
     color: #b8b6b4;
     font-size: small;
 }
@@ -153,11 +166,16 @@ h4 small {
 
 .comment li {
     display: block;
-    margin: 1.5em 0;
+    margin: 33px 95px;
+    line-height: 130%;
 }
 
 .active {
     color:#87bff2;
+    margin: 10px 0;
+}
+.foot{
+    margin: 10px 5%;
 }
 
 h1 {

@@ -10,7 +10,6 @@ header {
     height: 10%;
     background-color: #171a21;
     display: flex;
-    text-align: center;
 }
 
 nav {
@@ -164,9 +163,13 @@ h1 {
     margin: 0.5em 2.5em;
 }
 
+form p{
+    margin: 2% 0 1% 5%;
+}
+
 input, textarea {
     padding: 0.5em;
-    margin: 0.5em 0;
+    margin: 0.5% 0 0 0;
     width: 35%;
     background-color: #171a21;
     border: #56707f solid 1px;
@@ -197,3 +200,5 @@ input[type="button"],input[type="submit"],input[type="checkbox"], input[type="ra
 textarea {
     height: 15em;
 }
+
+

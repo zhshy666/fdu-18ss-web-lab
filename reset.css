@@ -11,8 +11,8 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup,
 main, menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-    margin: 5px;
-    padding: 2px;
+    margin: 0;
+    padding: 0;
     border: 0;
     vertical-align: baseline;
 }
