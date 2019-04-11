@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e540b3b-18c9-462e-a15f-64f6025b1126" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lab4up/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/header.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/bootstrap-3.0.0/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/bootstrap-3.0.0/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/bootstrap-3.0.0/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/art/113010-m.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/art/113010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/art/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/art/thumbs/106020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/art/thumbs/107010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/art/thumbs/116010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/art/thumbs/120010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/art/thumbs/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/art/tiny/099110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/art/tiny/106020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/art/tiny/113010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/art/tiny/116010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/art/tiny/120010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/art/tiny/13030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/art/tiny/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/book/013261930X.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/book/013267145X.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/book/013284737X.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/book/013286908X.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/book/013295351X.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/book/0321826124.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/book/0321826132.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/book/0321837347.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/book/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/book/glyphicons_042_group.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/travel/9494472443.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/travel/9498358806.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/travel/9504449928.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/travel/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/travel/new-banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/travel/tiny/8710247776.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/travel/tiny/8710320515.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/travel/tiny/9494282329.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/travel/tiny/9494464567.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/travel/tiny/9495574327.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/travel/tiny/9496787858.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/travel/tiny/9502740177.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/travel/tiny/9504609042.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/travel/tiny/9505536014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/travel/tiny/9505893300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/images/travel/tiny/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/lab4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/lab4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/lab4作业要求.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/lab4/sample.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/register.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4up/user_icon.jpg" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/bootstrap-3.0.0/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/lab4up" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/badges.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/bootstrap.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/breadcrumbs.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/button-groups.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/buttons.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/carousel.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/close.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/code.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/component-animations.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/dropdowns.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/forms.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/glyphicons.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/grid.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/input-groups.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/jumbotron.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/labels.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/list-group.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/media.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/mixins.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/modals.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/navbar.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/navs.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/normalize.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/pager.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/pagination.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/panels.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/popovers.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/print.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/progress-bars.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/responsive-utilities.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/scaffolding.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/tables.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/theme.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/thumbnails.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/tooltip.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/type.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/utilities.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/variables.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/less/wells.less" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/.editorconfig" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/.gitignore" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/.travis.yml" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/CNAME" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/CONTRIBUTING.md" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/Gruntfile.js" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/LICENSE" />
+        <option value="$PROJECT_DIR$/bootstrap-3.0.0/dist/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/lab4.html" />
+        <option value="$PROJECT_DIR$/lab4作业要求.md" />
+        <option value="$PROJECT_DIR$/a.html" />
+        <option value="$PROJECT_DIR$/kkk.php5" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpTemplates">
+    <option name="NEW_PHP_FILE_LAST_EXTENSION" value="php5" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="465" />
+    <option name="width" value="1460" />
+    <option name="height" value="880" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lab4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554990785997" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\个人\学习\2019上\Web\IdeaProjects\lab4" />
+      <recent name="D:\个人\学习\2019上\Web\IdeaProjects\lab4\bootstrap-3.0.0" />
+      <recent name="D:\个人\学习\2019上\Web\IdeaProjects\lab4\bootstrap-3.0.0\fonts" />
+      <recent name="D:\个人\学习\2019上\Web\IdeaProjects\lab4\bootstrap-3.0.0\dist\fonts" />
+      <recent name="D:\个人\学习\2019上\Web\IdeaProjects\lab4\images\travel\tiny" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="kkk.php5" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/kkk.php5">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.kkk.php5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23190348" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.3297587" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/less/close.less" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/less/code.less" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/less/component-animations.less" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/less/dropdowns.less" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/less/forms.less" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/less/glyphicons.less" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/less/grid.less" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/less/input-groups.less" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/less/jumbotron.less" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/less/labels.less" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/less/list-group.less" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/less/media.less" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/less/mixins.less" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/less/modals.less" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/less/navbar.less" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/less/navs.less" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/less/normalize.less" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/less/pager.less" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/less/pagination.less" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/less/panels.less" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/less/popovers.less" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/less/print.less" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/less/progress-bars.less" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/less/responsive-utilities.less" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/less/scaffolding.less" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/less/tables.less" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/less/theme.less" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/less/thumbnails.less" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/less/tooltip.less" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/less/type.less" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/less/utilities.less" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/less/variables.less" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/less/wells.less" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/.editorconfig" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/less/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/.travis.yml" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/CNAME" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/CONTRIBUTING.md" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/Gruntfile.js" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/LICENSE" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/dist/js/bootstrap.js" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/js/tests/unit/tab.js" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="63" column="14" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab4.css" />
+    <entry file="file://$PROJECT_DIR$/lab4作业要求.md" />
+    <entry file="file://$PROJECT_DIR$/a.html" />
+    <entry file="file://$PROJECT_DIR$/kkk.php5" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.0.0/dist/css/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/sample.png" />
+    <entry file="file://$PROJECT_DIR$/lab4.html" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
